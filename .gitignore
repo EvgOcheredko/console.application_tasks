@@ -6,7 +6,6 @@
 .pnp.js
 
 .idea
-.eslintrc.js
 package-lock.json
 
 # testing

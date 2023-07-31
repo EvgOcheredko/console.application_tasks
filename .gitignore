@@ -8,7 +8,6 @@
 .idea
 .eslintrc.js
 package-lock.json
-package.json
 
 # testing
 /coverage

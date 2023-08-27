@@ -1,3 +1,3 @@
-# UdemyFirstProject
+# console.application_tasks
 
-Practice creating a console application - Udemy
+Practice creating a console application
